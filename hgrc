@@ -1,0 +1,3 @@
+[ui]
+ssh = ssh -C
+username = Eric Higgins <erichiggins@gmail.com>
