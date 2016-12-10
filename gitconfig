@@ -1,6 +1,7 @@
 [user]
 	name = Eric Higgins
 	email = erichiggins@gmail.com
+	username = erichiggins
 [alias]
 	co = checkout
 	br = branch
