@@ -16,6 +16,8 @@ syntax on
 set tabstop=2
 set undolevels=1000
 set visualbell
+set backupdir=./.backup,.,/tmp
+set directory=.,./.backup,/tmp
 map <Esc>[H <Home>
 imap <Esc>[H <Home>
 map <Esc>[F <End>
